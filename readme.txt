@@ -1,0 +1,1 @@
+a simple example of generating an interface implementing class with java compiler
